@@ -1,4 +1,4 @@
-#Hi 👋, I'm Seda
+# Hi 👋, I'm Seda
 ## HTML/CSS & Javascript & React
 
 ### Connect with me 
